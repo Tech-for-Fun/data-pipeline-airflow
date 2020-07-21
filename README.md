@@ -76,4 +76,5 @@ After completing the code, type in the command:
 </opt/airflow/start.sh>
 It would automatically start all the dags required and outputting the result to its respective tables  
 
+![data-pipeline-final](data-pipeline-final.png)
 
